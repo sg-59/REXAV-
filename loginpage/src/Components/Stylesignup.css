@@ -1,0 +1,53 @@
+.Backgroundimg{
+    background-color: black;
+    width: 100%;
+    height: 800px;
+    background-image: url('../Images/3D\ logo.png');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.Logo{
+    background-image: url('../Images/Rexav\ Logo.png');
+    width: 70px;
+    height: 70px;
+    background-color: transparent;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+.label{
+    color: white;
+    size: 7px;
+    font-family: Inter Thin;
+    align-items: flex-start;
+    text-align: left;
+    margin-top: 15px;
+}
+.Inputs{
+    width: 250px;
+    height:20px ;
+    background-color: lightgrey;
+}
+.Btn{
+    width: 250px;
+    height: 25px;
+    background-color: aliceblue;
+    color: black;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+.BtnLogin{
+    width: 250px;
+    height: 25px;
+    background-color: aliceblue;
+    color: black;
+    margin-top: 35px;
+    margin-bottom: 15px;
+    border-radius: 5px;  
+}
